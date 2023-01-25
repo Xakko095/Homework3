@@ -63,7 +63,7 @@ public class Main {
         var staff = amountOfWorkers + newEmployees;
         var workingHours = staff * theNumberOfHoursPerDay;
         System.out.println("Всего работников в компании - " + amountOfWorkers + " человек");
-        System.out.println("Если в компании работает " + staff + " человек, то всего " + workingHours + " часов работы может быть поделено между сотрудниками" );
+        System.out.println("Если в компании работает " + staff + " человек, то всего " + workingHours + " часов работы может быть поделено между сотрудниками");
 
 
 
